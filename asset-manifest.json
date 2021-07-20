@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kandreip/budget_firebase_auth_firestore/static/css/main.52211e4a.chunk.css",
+    "main.js": "/kandreip/budget_firebase_auth_firestore/static/js/main.d0ad7a4a.chunk.js",
+    "main.js.map": "/kandreip/budget_firebase_auth_firestore/static/js/main.d0ad7a4a.chunk.js.map",
+    "runtime-main.js": "/kandreip/budget_firebase_auth_firestore/static/js/runtime-main.4505e4ff.js",
+    "runtime-main.js.map": "/kandreip/budget_firebase_auth_firestore/static/js/runtime-main.4505e4ff.js.map",
+    "static/js/2.963be4d1.chunk.js": "/kandreip/budget_firebase_auth_firestore/static/js/2.963be4d1.chunk.js",
+    "static/js/2.963be4d1.chunk.js.map": "/kandreip/budget_firebase_auth_firestore/static/js/2.963be4d1.chunk.js.map",
+    "index.html": "/kandreip/budget_firebase_auth_firestore/index.html",
+    "static/css/main.52211e4a.chunk.css.map": "/kandreip/budget_firebase_auth_firestore/static/css/main.52211e4a.chunk.css.map",
+    "static/js/2.963be4d1.chunk.js.LICENSE.txt": "/kandreip/budget_firebase_auth_firestore/static/js/2.963be4d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4505e4ff.js",
+    "static/js/2.963be4d1.chunk.js",
+    "static/css/main.52211e4a.chunk.css",
+    "static/js/main.d0ad7a4a.chunk.js"
+  ]
+}
